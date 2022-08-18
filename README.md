@@ -1,7 +1,7 @@
 # Computer-Science-Papers
 
 
-#storagesystems
+Storagesystems
 - Haystack (https://lnkd.in/gSZYcmmB)
 - f4: Facebook’s Warm BLOB Storage System (https://lnkd.in/gMEfTpAh)
 - The Hadoop Distributed File System (https://lnkd.in/gSUqafDg)
@@ -14,7 +14,7 @@
 - The Design and Implementation of a Log-Structured File System (https://lnkd.in/gVuka_Ym)
 - The RAMCloud Storage System (https://lnkd.in/gC3SQccF)
 
-This is next In this post from the #distributedsystems papers I would like to cover #analytics
+Analytics
 
 - Monarch: Google's Planet-Scale In-Memory Time Series Database (https://lnkd.in/gbqa7HNa)
 - Gorilla: A Fast, Scalable, In-Memory Time Series Database (https://lnkd.in/gd_nUJbu)
@@ -24,7 +24,7 @@ This is next In this post from the #distributedsystems papers I would like to co
 - Shark: SQL and Rich Analytics at Scale (https://lnkd.in/gqXHq5BG)
 - Realtime Data Processing at Facebook (https://lnkd.in/gQdMN4kP)
 
-This is a series of posts about #distributedsystems papers. This post covers #clustermanager and #scheduling 
+Clustermanager and Scheduling 
 
 - Large-scale cluster management at Google with Borg (https://lnkd.in/gT7bG2SF)
 
@@ -35,7 +35,7 @@ This is a series of posts about #distributedsystems papers. This post covers #cl
 - Twine: A Unified Cluster Management System for Shared Infrastructure (https://lnkd.in/gbnuqutm)
 
 
-This is a series of posts about #distributedsystems papers. This post covers #streamprocessing
+Streamprocessing
 
 - MillWheel: Fault-Tolerant Stream Processing at Internet Scale (https://lnkd.in/gC7VjCfG)
 - The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing (https://lnkd.in/g-PyJUPa)
@@ -46,8 +46,7 @@ This is a series of posts about #distributedsystems papers. This post covers #st
 - Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark (https://lnkd.in/gnQQP2UY)
 - Noria: dynamic, partially-stateful data-flow for high-performance web applications (https://lnkd.in/gYtpef34)
 
-
-This is a series of posts about #distributedsystems papers. This post covers #pubsub
+Pubsub
 
 - Kafka: a Distributed Messaging System for Log Processing (https://lnkd.in/dkfPsFwH)
 - Scribe: Transporting petabytes per hour via a distributed, buffered queueing system (https://lnkd.in/dTyTBE_t)
@@ -57,7 +56,7 @@ This is a series of posts about #distributedsystems papers. This post covers #pu
 - The FuzzyLog: A Partially Ordered Shared Log (https://lnkd.in/da4ikmEa)
 - Ubiq: A Scalable and Fault-tolerant Log Processing Infrastructure (https://lnkd.in/dQTfCDwH)
 
-This is a series of posts about #distributedsystems papers. Today we are going to cover #graph processing in distributed setting.
+Graph processing in distributed setting.
 
 - Pregel: A System for Large-Scale Graph Processing (https://lnkd.in/ggpew7yq)
 - PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs (https://lnkd.in/g6f9Mjzk)
@@ -66,7 +65,7 @@ This is a series of posts about #distributedsystems papers. Today we are going t
 - TAO: Facebook’s Distributed Data Store for the Social Graph (https://lnkd.in/gfesm_Hn)
 
 
-This is a series of posts about #distributedsystems and this post covers #consensus and replicated state machines.
+Consensus and replicated state machines.
 - Paxos Made Simple (https://lnkd.in/gk6nxyVj)
 - Implementing Fault-Tolerant Services Using the State Machine (https://lnkd.in/gPwNde-i)
 - The Chubby lock service for loosely-coupled distributed systems (https://lnkd.in/gFXKTrXR)
@@ -74,7 +73,7 @@ This is a series of posts about #distributedsystems and this post covers #consen
 - In Search of an Understandable Consensus Algorithm (https://lnkd.in/gqrKhvsK)
 - Virtual Consensus in Delos (https://lnkd.in/g5bitkdM)
 
-This is a series of posts about #distributedsystems papers. This post covers #peertopeer systems and information dessimination.
+Peertopeer systems and information dessimination.
 - Gossip-Based Broadcast (https://lnkd.in/gT74Zb8Z)
 - Gossiping in Distributed Systems (https://lnkd.in/g55DFbuP)
 - Peer-to-peer membership management for gossip-based protocols (https://lnkd.in/g_XE4TiE)
